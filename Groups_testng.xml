@@ -9,7 +9,7 @@
 		  </define>
 		  
 		  <run>
-			  <include name="Linux.*"></include> 
+			  <include name="Smoke"></include> 
 			 
 		  </run>
 	  </groups>
